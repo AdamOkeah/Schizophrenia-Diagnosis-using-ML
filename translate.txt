@@ -1,0 +1,4 @@
+Hasta_ID,Yaş,Cinsiyet,Eğitim_Seviyesi,Medeni_Durum,Meslek,Gelir_Düzeyi,Yaşadığı_Yer,Tanı,Hastalık_Süresi,Hastaneye_Yatış_Sayısı,Ailede_Şizofreni_Öyküsü,Madde_Kullanımı,İntihar_Girişimi,Pozitif_Semptom_Skoru,Negatif_Semptom_Skoru,GAF_Skoru,Sosyal_Destek,Stres_Faktörleri,İlaç_Uyumu
+
+
+Patient ID, Age, Gender, Education Level, Marital Status, Occupation, Income Level, Live Area, Diagnosis, Disease Duration, Hospitalizations, Family History, Substance Use, Suicide Attempt, Positive Symptom Score, Negative Symptom Score, GAF Score – Global Assessment of Functioning, Social Support, Stress Factors, Medication Adherence
